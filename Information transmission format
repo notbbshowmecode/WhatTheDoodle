@@ -1,0 +1,12 @@
+1.join room 
+        byte+byte+byte+else
+        1   +room_number + name +else;
+2.quit room 
+        byte+byte+byte+else
+        2   +room_number + name +else;
+3.send message
+        byte+byte+byte+else
+        3   +room_number + name +message;
+4.canve infomation
+        byte+byte+byte+else
+        4   +room_number + name +else;
