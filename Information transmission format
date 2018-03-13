@@ -10,3 +10,6 @@
 4.canve infomation
         byte+byte+byte+else
         4   +room_number + name +else;
+        
+        
+all client listen port 613
